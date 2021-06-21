@@ -1,7 +1,7 @@
 import turtle
 import math
 
-def block(sq, sq_side_len, col_index): #, col_index
+def block(sq, sq_side_len, col_index): 
     sq.color(colors[col_index])
     sq.begin_fill()
     for i in range(0,4):
