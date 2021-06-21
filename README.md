@@ -1,4 +1,4 @@
-# pythagorean-houseplant
+# pythagorean-fractal
 
 This is an algorithm to repeatedly generate squares each with one side as part of a right triangle with sides of ratio 3:4:5 (a Pythagorean triplet).
 Every colour in the output image covers the same amount of area. This can be deduced from Pythagoras's theorem.
